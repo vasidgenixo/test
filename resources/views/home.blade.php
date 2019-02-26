@@ -20,8 +20,5 @@
         </div>
     </div>
 </div>
-dfgsdfg
-sdgs
-dgs
-gsdfg
+
 @endsection
